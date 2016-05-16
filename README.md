@@ -16,8 +16,8 @@ These existing four repositories have been forked (links are below) and are bein
 - [library-openrefine](https://github.com/data-lessons/library-openrefine)
 - [library-sql](https://github.com/data-lessons/library-sql)
 
- ##The Sprint
- The aim of this Global Sprint Project is to extend Library Carpentry by 
+##The Sprint
+ The aim of the sprint project is to extend Library Carpentry by 
  - adding new exercises to challenge participants
  - adding new multiple choice questions to test understanding
  - adding an SQL module
