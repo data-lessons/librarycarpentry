@@ -26,5 +26,8 @@ These existing four repositories have been forked (links are below) and are bein
 ##Participants
 Anyone with an interest in the material is welcome to take part in the sprint. The project is being co-ordinated for the sprint by [Belinda Weaver](https://github.com/weaverbel) in Brisbane, who is hosting [a local site for participants](http://pad.software-carpentry.org/bris-sprint). People are welcome to sign on to the project there.
 
+##Code of Conduct
+All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).
+
 ##License
 This lesson is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
