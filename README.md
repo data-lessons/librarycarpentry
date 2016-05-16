@@ -12,9 +12,9 @@ These existing four repositories have been forked (links are below) and are bein
 
 - [library-data-intro](https://github.com/data-lessons/library-data-intro)
 - [library-shell](https://github.com/data-lessons/library-shell)
+- [library-git](https://github.com/data-lessons/library-git)
 - [library-openrefine](https://github.com/data-lessons/library-openrefine)
 - [library-sql](https://github.com/data-lessons/library-sql)
-- [library-git](https://github.com/data-lessons/library-git)
 
  ##The Sprint
  The aim of this Global Sprint Project is to extend Library Carpentry by 
