@@ -10,7 +10,9 @@ In this fork, we welcome contributions of all kinds: new lessons, additions to e
 and bug reports. 
 
 By contributing, you agree that we may redistribute your work under our license. In exchange, 
-you will be contributing to the development of this material for the library community worldwide.
+you will be contributing to the development of this material for the library community worldwide. 
+While this is not an official Software Carpentry set of lessons or project, participants should abide by the Software
+Carpentry [Code of Conduct](http://software-carpentry.org/conduct/).
 
 ## What We're Looking For
 
