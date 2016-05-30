@@ -4,7 +4,7 @@
 contributions from [Owen Stephens](https://github.com/ostephens), and has been forked here to facilitate further development during
 the Mozilla Science Lab Global Sprint, 2-3 June.
 
-See more about the initial Library Carpentry project here [here](https://github.com/LibraryCarpentry).
+See more about the initial Library Carpentry project [here](https://github.com/LibraryCarpentry).
 
 In this fork, we welcome contributions of all kinds: new lessons, additions to existing materials, fixes for errors, 
 and bug reports. 
