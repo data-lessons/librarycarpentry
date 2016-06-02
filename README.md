@@ -1,7 +1,7 @@
 # librarycarpentry
 ##Materials for Library Carpentry development
 
-These materials are based on the **Library Carpentry** materials initially developed and taught by [Dr James Baker](https://github.com/drjwbaker) and [Owen Stephens](https://github.com/ostephens) in the UK.
+These materials are based on the **Library Carpentry** materials initially developed and taught by [Dr James Baker](https://github.com/drjwbaker), [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien) in the UK.
 [http://librarycarpentry.github.io/outline/](http://librarycarpentry.github.io/outline/). The original Library Carpentry contained four modules:
 - Introduction, including jargon busting, data structures and regular expressions
 - The Unix shell, including use of the command line and commands such as`grep` and `sed` to find data within files
