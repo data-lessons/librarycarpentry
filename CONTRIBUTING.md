@@ -1,7 +1,7 @@
 ## Contributing
 
 **Library Carpentry** is an open source project. It was created initially by [Dr James Baker](https://github.com/drjwbaker), with 
-contributions from [Owen Stephens](https://github.com/ostephens) and Daniel van Strien, and was forked here in 2016 to facilitate further development during
+contributions from [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien), and was forked here in 2016 to facilitate further development during
 the Mozilla Science Lab Global Sprint, 2-3 June, 2016. Details of what we achieved in that sprint can be found in this [blog post](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html).
 
 We are now using this fork again as the jumping-off place for work on the 2017 Mozilla Science Lab Global Sprint, 
