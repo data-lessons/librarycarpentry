@@ -1,5 +1,5 @@
 # librarycarpentry
-##Materials for Library Carpentry development
+## Materials for Library Carpentry development
 
 These materials are based on the **Library Carpentry** materials initially developed and taught by [Dr James Baker](https://github.com/drjwbaker), [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien) in the UK.
 [http://librarycarpentry.github.io/outline/](http://librarycarpentry.github.io/outline/). The original Library Carpentry contained four modules:
@@ -8,7 +8,7 @@ These materials are based on the **Library Carpentry** materials initially devel
 - Git and version control
 - Using OpenRefine for data clean up.
 
-These existing four repositories have been forked (links are below) and are being re-developed within individual repositories, with the addition of a fifth module that introduces **SQL**, a topic which many librarians have expressed interest in learning. 
+These existing four repositories were forked (links are below) and have been re-developed within individual repositories, with the addition of a fifth module that introduces **SQL**, a topic which many librarians have expressed interest in learning. 
 
 - [library-data-intro](https://github.com/data-lessons/library-data-intro)
 - [library-shell](https://github.com/data-lessons/library-shell)
@@ -16,18 +16,23 @@ These existing four repositories have been forked (links are below) and are bein
 - [library-openrefine](https://github.com/data-lessons/library-openrefine)
 - [library-sql](https://github.com/data-lessons/library-sql)
 
-##The Sprint
- The aim of the sprint project is to extend Library Carpentry by 
- - adding new exercises to challenge participants
- - adding new multiple choice questions to test understanding
- - adding an SQL module
- - adding new databases, e.g. from digital humanities or elsewhere, so that the material can be used in training beyond the library community. 
+## The 2017 Sprint
+ The aim of the 2017 sprint project is to extend Library Carpentry by 
+ - working on incubator lessons such as https://github.com/jezcope/library-spreadsheets
+ - incorporating an existing [web scraping lesson](https://github.com/timtomch/library-webscraping) into the Library Carpentry suite
+ - developing the [Python lesson](https://github.com/data-lessons/library-python/) to include these [points](https://github.com/data-lessons/library-python/issues/38)
+ - bringing together various SQL lesson threads developed by different community members
+ - refreshing/revising our [main web site](http://librarycarpentry.github.io/) 
+ - developing a workflow for monitoring upcoming workshops and publishing our list of events in a public place
+ - adapting our lesson materials to suit archivists' work practices, based on feedback from [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdc9RHNmgffnt9UtLfgIhS_MGUzh0wh-HQNX24wBz5c4mcf1g/viewform)
+ 
+## Participants
+Anyone with an interest in Library Carpentry material is welcome to take part in the sprint. The project is being co-ordinated for the sprint by [Belinda Weaver](https://github.com/weaverbel) in Brisbane, Australia, who is also hosting [a local site for Brisbane participants](http://pad.software-carpentry.org/lc2017). People are welcome to sign on to the project on that pad - whether to register a site, to join an existing site, or to sign on to work remotely. People are also welcome to volunteer to lead sections of work. For example, Richard Vankoningsveld will be leading the Python work and would welcome input and feedback. Sign up on the etherpad, or express interest on the [Python lesson](https://github.com/data-lessons/library-python/) through the [Issues](https://github.com/data-lessons/library-python/issues/38) tab. 
 
-##Participants
-Anyone with an interest in the material is welcome to take part in the sprint. The project is being co-ordinated for the sprint by [Belinda Weaver](https://github.com/weaverbel) in Brisbane, who is hosting [a local site for participants](http://pad.software-carpentry.org/bris-sprint). People are welcome to sign on to the project there.
+To stay in touch during the sprint, we will use the etherpad, our [chatroom](https://gitter.im/weaverbel/LibraryCarpentry) (sign in using your GitHub username or Twitter handle) and daily video calls - links will be posted on the [etherpad](http://pad.software-carpentry.org/lc2017) on the day.
 
-##Code of Conduct
+## Code of Conduct
 All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).
 
-##License
+## License
 All the lessons are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
