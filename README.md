@@ -16,7 +16,7 @@ These existing four repositories were forked (links are below) and have been re-
 - [library-openrefine](https://github.com/data-lessons/library-openrefine)
 - [library-sql](https://github.com/data-lessons/library-sql)
 
-## The 2017 Sprint
+## The 2017 Sprint (1-2 June)
  The aim of the 2017 sprint project is to extend Library Carpentry by 
  - working on incubator lessons such as https://github.com/jezcope/library-spreadsheets
  - incorporating an existing [web scraping lesson](https://github.com/timtomch/library-webscraping) into the Library Carpentry suite
