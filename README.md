@@ -8,7 +8,6 @@
  - developing a workflow for monitoring upcoming workshops and publishing our list of events in a public place
  - adapting our lesson materials to suit archivists' work practices, based on feedback from [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdc9RHNmgffnt9UtLfgIhS_MGUzh0wh-HQNX24wBz5c4mcf1g/viewform)
  - developing instructor guides for our lessons
- - working on some research data management issues, such as [these](https://ucsdlib.github.io/23-Research-Data-Things/)
  
 ## Participants
 Anyone with an interest in Library Carpentry material is welcome to take part in the sprint. The project is being co-ordinated for the sprint by [Belinda Weaver](https://github.com/weaverbel) in Brisbane, Australia, who is also hosting [a local site for Brisbane participants](https://ti.to/Mozilla/global-sprint-brisbane). People are welcome to sign on to the project on our [etherpad](http://pad.software-carpentry.org/lc2017) - whether to register a site, to join an existing site, or to sign on to work remotely. People are also welcome to volunteer to lead sections of work. For example, Richard Vankoningsveld will be leading the Python work and would welcome input and feedback. Sign up on the [etherpad](http://pad.software-carpentry.org/lc2017), or express interest on the [Python lesson](https://github.com/data-lessons/library-python/) through the [Issues](https://github.com/data-lessons/library-python/issues/38) tab. 
