@@ -1,5 +1,7 @@
+## Welcome librarians, archivists and other sprinters!
+
 ## The 2017 Sprint (1-2 June, 2017)
- The aim of the 2017 sprint project is to extend [Library Carpentry](http://librarycarpentry.github.io/) by 
+The aim of our 2017 sprint project is to extend [Library Carpentry](http://librarycarpentry.github.io/) by 
  - working on incubator lessons such as https://github.com/jezcope/library-spreadsheets
  - incorporating an existing [web scraping lesson](https://github.com/timtomch/library-webscraping) into the Library Carpentry suite
  - developing the [Python lesson](https://github.com/data-lessons/library-python/) to include these [points](https://github.com/data-lessons/library-python/issues/38)
@@ -9,6 +11,7 @@
  - adapting our lesson materials to suit archivists' work practices, based on feedback from [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdc9RHNmgffnt9UtLfgIhS_MGUzh0wh-HQNX24wBz5c4mcf1g/viewform)
  - developing instructor guides for our lessons
  - hearing from the librarian/archivist community about issues they want addressed (please raise issues on each individual lesson)
+ - developing examples of how the tools can be integrated into daily work, e.g. using bash scripts to automate tasks, clean up data.
  
 ## Participants
 Anyone with an interest in Library Carpentry material is welcome to take part in the sprint. The project is being co-ordinated for the sprint by [Belinda Weaver](https://github.com/weaverbel) in Brisbane, Australia, who is also hosting [a local site for Brisbane participants](https://ti.to/Mozilla/global-sprint-brisbane). People are welcome to sign on to the project on our [etherpad](http://pad.software-carpentry.org/lc2017) - whether to register a site, to join an existing site, or to sign on to work remotely. People are also welcome to volunteer to lead sections of work. For example, Richard Vankoningsveld will be leading the Python work and would welcome input and feedback. Sign up on the [etherpad](http://pad.software-carpentry.org/lc2017), or express interest on the [Python lesson](https://github.com/data-lessons/library-python/) through the [Issues](https://github.com/data-lessons/library-python/issues/38) tab. 
