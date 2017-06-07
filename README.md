@@ -26,7 +26,7 @@ There is a new Data Intro lesson specifically geared towards the needs of archiv
 
 An incubator lesson exists within a separate repository for tidying spreadsheet data:
 
-- [library-spreadsheets](https://github.com/jezcope/library-spreadsheets0
+- [library-spreadsheets](https://github.com/jezcope/library-spreadsheets)
 
 A lot of work was done on the repositories during the recent Mozilla Global sprint. For work outstanding, please see the [issues here](https://github.com/data-lessons/librarycarpentry/issues). Contributions welcome.
 
