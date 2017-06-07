@@ -11,7 +11,7 @@ These four repositories have been re-developed within the GitHub `data-lessons` 
 
 ## Lessons
 
-Library Carpentry prides itself on reviewing and revising our lessons to ensure that they fit the needs and requriements of the communities we serve. As a result our lessons are at varying stages of maturity.
+Library Carpentry prides itself on reviewing and revising our lessons to ensure that they fit the needs and requirements of the communities we serve. As a result our lessons are at varying stages of maturity.
 
 Our **Core** lessons - those which we are confident that anyone can teach with no problems - are:
 
