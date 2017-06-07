@@ -32,7 +32,7 @@ Our **Alpha** lessons - those which are new or substantially revised and have th
 - [library-spreadsheets](https://github.com/jezcope/library-spreadsheets)
 - [data-intro-archives](https://github.com/data-lessons/data-intro-archives)
 
-If you plan to teach an **Alpha** or **Beta** status lesson at a Library Carpentry workshop, we recommend you contact the lessons maintainer (listed in the lesson README.md file) before doing so.
+If you plan to teach an **Alpha** or **Beta** status lesson at a Library Carpentry workshop, we recommend you contact the lesson's maintainer (listed in the lesson README.md file) before doing so.
 
 A lot of work was done on the repositories during the recent Mozilla Global sprint. For work outstanding, please see the [issues here](https://github.com/data-lessons/librarycarpentry/issues). Contributions welcome.
 
