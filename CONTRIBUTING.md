@@ -1,17 +1,10 @@
 ## Contributing
 
 **Library Carpentry** is an open source project. It was created initially by [Dr James Baker](https://github.com/drjwbaker), with 
-contributions from [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien), and was forked here in 2016 to facilitate further development during
-the Mozilla Science Lab Global Sprint, 2-3 June, 2016. Details of what we achieved in that sprint can be found in this [blog post](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html). The Library Carpentry community is now global, with a very active core of instructors and lesson maintainers.
+contributions from [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien), and was forked here in 2016 to facilitate further development during the Mozilla Science Lab Global Sprint, 2-3 June, 2016. 
 
-We are using this fork again as the jumping-off place for work on the 2017 Mozilla Science Lab Global Sprint, 
-which will take place on 1-2 June, 2017. 
-
-Details of the 2017 plan of work and the existing sites who have signed on to contribute are listed [on this etherpad](http://pad.software-carpentry.org/lc2017) and on the
-[2017 Mozilla sprint site](https://github.com/mozilla/global-sprint/issues/35). 
-
-People can work at any of the listed sites or can contribute remotely. You do not have to commit to the full two days. 
-All participation and input, however limited, is welcome. 
+Details of what we achieved in that sprint can be found in this [blog post](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html). The Library Carpentry community is now global, with a very active core of instructors and lesson maintainers. 
+We used this fork again for work on the 2017 Mozilla Science Lab Global Sprint, which took place on 1-2 June, 2017. 
 
 In this fork, we welcome contributions of all kinds: new lessons, additions to existing materials, fixes for errors, 
 and bug reports. 
