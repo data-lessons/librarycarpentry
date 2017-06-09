@@ -23,11 +23,11 @@ Our **Beta** lessons - those which need to be taught more to iron out their cont
 
 - [library-git](https://github.com/data-lessons/library-git)
 - [library-python-intro](https://github.com/data-lessons/library-python-intro)
-- [library-python](https://github.com/data-lessons/library-python)
 - [library-sql](https://github.com/data-lessons/library-sql)
 
 Our **Alpha** lessons - those which are new or substantially revised and have therefore yet to be tested in a teaching environment -  are:
 
+- [library-python](https://github.com/data-lessons/library-python)
 - [library-webscraping](https://github.com/data-lessons/library-webscraping)
 - [library-spreadsheets](https://github.com/jezcope/library-spreadsheets)
 - [data-intro-archives](https://github.com/data-lessons/data-intro-archives)
