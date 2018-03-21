@@ -6,6 +6,10 @@ contributions from [Owen Stephens](https://github.com/ostephens) and [Daniel van
 Details of what we achieved in that sprint can be found in this [blog post](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html). The Library Carpentry community is now global, with a very active core of instructors and lesson maintainers. 
 We used this fork again for work on the 2017 Mozilla Science Lab Global Sprint, which took place on 1-2 June, 2017. 
 
+We will now use it for the 218 sprint.
+
+Attendees should be aware of, and comply with the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). Sprint attendees, whether attending remotely, or at an in-person site, must abide by the [Software and Data Carpentry Code of Conduct](http://www.datacarpentry.org/code-of-conduct/). 
+
 In this fork, we welcome contributions of all kinds: new lessons, additions to existing materials, fixes for errors, 
 and bug reports. 
 
