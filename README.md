@@ -15,21 +15,21 @@ Library Carpentry prides itself on reviewing and revising our lessons to ensure 
 
 Our **Core** lessons - those which we are confident that anyone can teach with no problems - are:
 
-- [library-data-intro](https://github.com/data-lessons/library-data-intro)
-- [library-shell](https://github.com/data-lessons/library-shell)
-- [library-openrefine](https://github.com/data-lessons/library-openrefine)
+- [library-data-intro](https://github.com/librarycarpentry/lc-data-intro)
+- [library-shell](https://github.com/librarycarpentry/lc-shell)
+- [library-openrefine](https://github.com/librarycarpentry/lc-open-refine)
 
 Our **Beta** lessons - those which need to be taught more to iron out their content and flow - are:
 
-- [library-git](https://github.com/data-lessons/library-git)
-- [library-python-intro](https://github.com/data-lessons/library-python-intro)
-- [library-sql](https://github.com/data-lessons/library-sql)
+- [library-git](https://github.com/librarycarpentry/lc-git)
+- [library-python-intro](https://github.com/librarycarpentry/lc-python-intro)
+- [library-sql](https://github.com/librarycarpentry/lc-sql)
 
 Our **Alpha** lessons - those which are new or substantially revised and have therefore yet to be tested in a teaching environment -  are:
 
 - [library-python](https://github.com/data-lessons/library-python)
-- [library-webscraping](https://github.com/data-lessons/library-webscraping)
-- [library-spreadsheets](https://github.com/jezcope/library-spreadsheets)
+- [library-webscraping](https://github.com/librarycarpentry/lc-webscraping)
+- [library-spreadsheets](https://github.com/librarycarpentry/lc-spreadsheets)
 - [data-intro-archives](https://github.com/data-lessons/data-intro-archives)
 
 If you plan to teach an **Alpha** or **Beta** status lesson at a Library Carpentry workshop, we recommend you contact the lesson's maintainer (listed in the lesson README.md file) before doing so.
